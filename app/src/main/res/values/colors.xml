@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#245DAB</color>
+    <color name="primary_dark">#173E75</color>
+    <color name="secondary">#16845B</color>
+    <color name="surface_background">#F4F7FB</color>
+    <color name="ink">#172B45</color>
+    <color name="muted">#687B92</color>
+    <color name="present">#16845B</color>
+    <color name="absent">#C13F4A</color>
+    <color name="selected">#E5F0FF</color>
+</resources>
