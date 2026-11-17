@@ -1,0 +1,13 @@
+CAMPUS ATTENDANCE — START HERE
+
+1. Extract this ZIP.
+2. Open Android Studio.
+3. File > Open.
+4. Select the extracted CampusAttendance folder (the folder containing settings.gradle and gradlew.bat).
+5. Wait for Gradle Sync. First sync needs internet.
+6. Select your Pixel emulator and click Run.
+
+You do NOT need to create a second project or copy/merge source files.
+You do NOT need to create SQLite manually. The app creates its database on first launch.
+
+For detailed steps, see README.md.
